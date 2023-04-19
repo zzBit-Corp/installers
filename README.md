@@ -1,2 +1,1 @@
-# installers
-zzBit installers
+# zzBit installers
